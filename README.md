@@ -16,3 +16,5 @@ S'installe comme n'importe quelle extension WP par téléversement manuel (ou d�
 ### Comportement
 Une fois installé dans les extensions, le widget sera disponible sous le nom "Linky" dans Elementor. 
 Il est possible de forcer un titre, un extrait ou une image... (utile surtout pour les liens externes ou les contenus qui n'ont pas l'une de ces infos, notamment l'image de mise en avant qui pourrait être absente)
+
+<img src="https://user-images.githubusercontent.com/3915029/185227261-eba58b85-16b9-402c-8f2d-864277093c5f.png"/>
